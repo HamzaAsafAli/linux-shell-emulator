@@ -1,0 +1,7 @@
+pwd - Print Working Directory
+
+Syntax:
+ pwd
+ 
+Purpose:
+ Prints the current working directory to the user.

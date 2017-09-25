@@ -1,0 +1,8 @@
+cat
+
+Syntax:
+	cat fileName
+	cat pathToFile/fileName
+	
+Purpose:
+	The cat command displays the contents of the specified file on the screen for the user.

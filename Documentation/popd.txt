@@ -1,0 +1,9 @@
+Popd
+
+Syntax:
+	popd
+	
+	
+Purpose:
+	Allows the user to change to their original directories after using the 
+	pushd command. 

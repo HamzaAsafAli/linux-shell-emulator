@@ -1,0 +1,7 @@
+history
+
+Syntax:
+	history[n]
+	
+Purpose:
+	history[n] prints out the last n commands entered by the user in the shell.

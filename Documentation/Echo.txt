@@ -1,0 +1,10 @@
+echo STRING [> OUTFILE]
+- If outfile is not provided, STRING is printed on the shell.
+- If outfile is provided STRING is put into file OUTFILE.
+- Creates a new file if OUTFILE does not exist and overwrites the old contents if OUTFILE already exists. 
+
+echo STRING [>> OUTFILE]
+- If outfile is not provided, STRING is printed on the shell.
+- If outfile is provided STRING is put into file OUTFILE.
+- Creates a new file if OUTFILE does not exist and if OUTFILE is present appends the STRING to any peices of existing STRING. 
+

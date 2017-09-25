@@ -1,0 +1,11 @@
+mkdir - Make Directory	
+
+Syntax:
+	mkdir folder1 folder2 
+	mkdir pathToFolder/folderToBeCreated
+
+Purpose:
+	The mkdir command can be executed in two ways. 
+	The first way takes a list of the folders the user would like created separated by a space. 
+	
+	The second way takes a path to an existing folder and creates the desired folder at the end of that path.	

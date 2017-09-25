@@ -1,0 +1,7 @@
+man
+
+Syntax:
+	man [command]
+	
+Purpose:
+	The man command takes a command in as an argument and returns information about the command to the user.

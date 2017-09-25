@@ -1,0 +1,8 @@
+ls - List Content
+
+Syntax:
+ ls
+ ls [pathToFolder]
+ 
+Purpose:
+ This ls command lists the contents of the current working directory, or it lists the contents of the folder specified by the user.

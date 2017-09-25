@@ -1,0 +1,8 @@
+pushd
+
+Syntax:
+	pushd DIR
+	
+Purpose:
+	Pushd allows the user to change directories while keeping their original
+	location saved. 

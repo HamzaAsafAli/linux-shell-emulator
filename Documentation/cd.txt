@@ -1,0 +1,7 @@
+cd - Change Directory
+
+Syntax:
+ cd [pathToFolder]
+ 
+Purpose:
+ The cd command takes the desired folder as an argument and changes the current working directory to the folder as specified by the user.
