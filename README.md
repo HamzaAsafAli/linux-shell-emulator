@@ -4,3 +4,6 @@
 - Supports full file and directory structures.
 - Interact with the file system with common shell commands.
 - Refer to documentation for list of available commands and breif description of each.
+
+# Developers
+Hamza Ali, Jai Geelal, Shayan Ahmed and Nadir Yudoputra. 
